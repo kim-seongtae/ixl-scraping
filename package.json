@@ -10,7 +10,7 @@
 	"author": "kim-seongtae",
 	"license": "ISC",
 	"dependencies": {
-		"axios": "^0.19.2",
+		"axios": "^0.21.1",
 		"puppeteer": "^3.0.0"
 	},
 	"devDependencies": {
